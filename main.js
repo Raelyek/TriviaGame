@@ -7,7 +7,7 @@ var questions = [
 
     {
         question: "Which Daedric Prince created Malacath?",
-        answers: ["Boethiah," "Hermaeus Mora", "Meridia", "Mehrunes Dagon"],
+        answers: ["Boethiah," "Hermaeus Mora", "Meridia", "Mehrunes Dagon", "Sheogorath"],
         correctAnswer: "Boethiah",
         image: ""
     }
